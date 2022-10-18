@@ -8,7 +8,8 @@
 - REACT ROUTER.
 - REDUX TOOLKIT.
 
-### Prerequisites
+### Back End Repository (Rails)
+https://github.com/mgmediaweb/hello-rails-back-end
 
 ### Setup
 
