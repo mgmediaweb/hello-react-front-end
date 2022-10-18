@@ -11,7 +11,7 @@ const HomeScreen = () => {
 
   return (
     <div>
-      <h1>hola</h1>
+      <h1>See the random message:</h1>
       <h2>{ showGreting }</h2>
     </div>
   );
