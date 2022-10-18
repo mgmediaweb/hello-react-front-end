@@ -11,7 +11,6 @@ export const getGreetings = createAsyncThunk(
       },
       mode: 'no-cors',
     });
-    console.log('@@@ response', response);
     const data = await response.json();
     return data;
   },
